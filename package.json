@@ -1,0 +1,17 @@
+{
+  "name": "react-cli",
+  "version": "0.0.1",
+  "description": "CLI for bootstraping a react project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Samuel Bautista",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "create-react-app": "^2.1.5",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "react-cli": "./index.js"
+  }
+}
